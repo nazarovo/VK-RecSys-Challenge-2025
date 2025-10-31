@@ -1,5 +1,5 @@
 # VK RecSys Challenge 2025 (VK RecSys Challenge LSVD)
-ОСТОРОЖНО! Тяжёлые файлы и перегруженный сервер HF.
+ОСТОРОЖНО! Тяжёлые файлы и заблокированный HF.
 
 https://ods.ai/competitions/vkrecsyschallengelsvd
 
